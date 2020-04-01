@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+      "outDir": "../out-tsc/app",
+      "baseUrl": ".",
+      "rootDirs": [
+          "generated/"
+      ]
+    },
+    "files": [
+      "test.ts",
+    ]
+  }
+  

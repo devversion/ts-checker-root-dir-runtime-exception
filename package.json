@@ -1,0 +1,13 @@
+{
+  "name": "ts-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@angular/core": "^9.1.0",
+    "rxjs": "^6.5.4",
+    "tslib": "^1.11.1",
+    "typescript": "^3.8.3",
+    "zone.js": "^0.10.3"
+  }
+}
